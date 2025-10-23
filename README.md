@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--animated-fortnight--kevinv033.aem.page/
+- Live: https://main--animated-fortnight--kevinv033.aem.live/
 
 ## Documentation
 
